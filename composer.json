@@ -1,0 +1,17 @@
+{
+  "name": "raphaeu/parse_file",
+  "description": "Criar arquivos de configuração",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Rafael Aguiar",
+      "email": "raphaeu.aguiar@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "raphaeu\\": "src/"
+    }
+  }
+}
